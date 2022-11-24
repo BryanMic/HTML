@@ -1,0 +1,19 @@
+header{border-style: solid;
+    margin: 0 auto;
+}
+
+div {color: rgb(0, 0, 0);
+    text-align: justify;
+    border-style: solid;
+    padding: 2px;   
+
+}
+#divPrenom {color: rgb(8, 24, 208);
+            
+}
+
+#divNom {color: red;}
+
+#divNai {color: blue;
+
+}
