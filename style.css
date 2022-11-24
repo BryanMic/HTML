@@ -4,26 +4,20 @@ h1 {color:red;
     margin-right: 100mm;
     text-align: center;
     margin: 0 auto;
-    
-
+    box-shadow: 1px;
 }
 
-
-
-}
 div {border-style: solid;
            border-color:rgb(14, 13, 14);
-           border-width: 10px;
+           border-width: 5px;
            color: blue;
            text-decoration: dotted;
-           padding: 10px;
-
+           padding: 5px;
 }
-
 
 p {text-align: justify;
     border-style: solid;
-
 }
+
 main {text-align: center;
 }
