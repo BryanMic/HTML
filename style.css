@@ -1,0 +1,29 @@
+h1 {color:red;
+    border-radius: 100px;
+    border-style:solid;
+    margin-right: 100mm;
+    text-align: center;
+    margin: 0 auto;
+    
+
+}
+
+
+
+}
+div {border-style: solid;
+           border-color:rgb(14, 13, 14);
+           border-width: 10px;
+           color: blue;
+           text-decoration: dotted;
+           padding: 10px;
+
+}
+
+
+p {text-align: justify;
+    border-style: solid;
+
+}
+main {text-align: center;
+}
