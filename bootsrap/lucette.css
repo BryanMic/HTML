@@ -1,0 +1,38 @@
+
+
+div.col-12 {
+    background-color: gray;
+
+}
+
+div.col-4 {
+    background-color: green;
+    color: black;
+    text-align: center;
+
+}
+
+div.col-6 {
+    background-color: green;
+    color: black;
+    text-align: end;
+
+}
+
+div.col-2 {
+    background-color: green;
+    color: black;
+    text-align:start
+
+}
+
+.boite {
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.pub {
+    margin: auto;
+    justify-content: start;
+}

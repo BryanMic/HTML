@@ -22,26 +22,24 @@ h2 {
 
 
 img {
-
+    align-self: center;
     width: 30%;
     
 }
 #container
 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: flexbox;
+    display: grid;
 }
 .borderbox {
     border-style: solid;
     border-width: auto;
     border-color: black;
-    width: 25%;
+    width: 30%;
     box-sizing: content-box;
     box-shadow: 10px 5px 5px black;
     background-color: rgba(217, 217, 217, 0.5);
-
-}
+    grid-area: 
 
 p {
   
@@ -50,7 +48,6 @@ p {
     box-shadow: 10px 10px 10px black;
     background-color: rgba(6, 69, 12, 0.5);
     color: blue;
-    margin: 50%;
 }
 
 .flexbox {
@@ -60,7 +57,6 @@ p {
     background-color: rgba(91, 97, 244, 0.5);
     color: black;
     width: 30%;
-    flex-direction: column;
 }
 
 @media screen and (max-width: 900px) {
@@ -68,12 +64,4 @@ p {
     .flexbox{width: 100%;}
     p{width: 100%;}
     img{width: 100%;}
-}
-
-.cote {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    width: 20%;
-
 }

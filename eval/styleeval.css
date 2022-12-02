@@ -1,0 +1,14 @@
+#divcontainer {
+    display: flex;
+    width: 100vh;
+    
+}
+
+#ban {
+    display: flex;
+    flex-direction: row;
+    
+
+   
+
+}
