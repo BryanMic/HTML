@@ -12,3 +12,17 @@
    
 
 }
+header {
+    background-color: red;
+    background-image: url(star.jpg);
+    height: 100px;
+    color: white;
+    
+
+}
+ img {
+    width: 100px;
+    display: flex;
+    
+
+ }
